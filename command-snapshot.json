@@ -1,0 +1,10 @@
+[
+  {
+    "alias": [],
+    "command": "aihelper",
+    "flagAliases": ["apiversion"],
+    "flagChars": ["l", "t", "v"],
+    "flags": ["api-version", "flags-dir", "json", "location", "loglevel", "token", "verbose"],
+    "plugin": "@salesforce/plugin-aihelper"
+  }
+]
